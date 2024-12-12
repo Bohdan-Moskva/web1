@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html" charset="UTF-8">
+    <meta name="description" content="Лабораторна №1">
+    <meta name="author" content="Студент групи КН-31заоч, Москва Богдан">
+    <meta name="keywords" content="HTML, web, дизайн">
+    <title>Лабораторна №1</title>
+</head>
+<body
+        link="#1E90FF"
+        vlink="#9932CC"
+        alink="#DC143C"
+        text="#191970"
+        bgcolor="red"
+        background="static/cat.gif"
+>
+
+Це найпростіший приклад HTML-документа
+
+</body>
+</html>
